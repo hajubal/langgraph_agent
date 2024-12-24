@@ -19,7 +19,7 @@ gradio = "4.44.1"
 python-dotenv = "1.0.1"
 bs4 = "0.0.2"
 wikipedia = "1.4.0"
-
+nbstripout = "0.8.1"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
